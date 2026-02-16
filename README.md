@@ -1,2 +1,2 @@
 # Portfolio
-gandu ka resume
+chodu ka resume
